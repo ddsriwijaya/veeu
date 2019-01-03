@@ -1,2 +1,0 @@
-# veeu
-Nuyul veeu
